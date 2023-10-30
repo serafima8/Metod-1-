@@ -1,0 +1,7 @@
+D:\Вызов метода(1)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Вызов метода(1)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Вызов метода(1)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Вызов метода(1)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Вызов метода(1)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Вызов метода(1)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Вызов метода(1)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
